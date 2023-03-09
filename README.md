@@ -14,18 +14,18 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/SPEEDNET244/SSH-WEB/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/Cyber-ssh/SSH-WEB/ubuinst.sh)
 ```
 </br>
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-SPEEDNET VPN EDUARDO 
+@Cyberssh 
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercont.com/SPEEDNET244/SSH-WEB/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercont.com/Cyber-ssh/SSH-WEB/sincpainel.sh)
 ```
 
 # 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
